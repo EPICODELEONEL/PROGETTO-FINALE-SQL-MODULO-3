@@ -1,0 +1,5 @@
+il caso di studio che ho scelto riguarda una scuola internazionale chiamata int_universita
+è una scuola multinazionale nel reparto informatica tecnologia dove ogni studente provenienti da altri parti del mondo 
+ho eseguito un data set dove vengono riportati questi dati attraverso il modello concettuale,logico e er 
+e ho fatto un progetto fisico per trasformarlo in un database da li ho eseguito dei query di interrogazione per trare informazioni 
+su ogni studente..
